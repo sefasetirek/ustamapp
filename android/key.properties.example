@@ -1,0 +1,4 @@
+storePassword=SizinStoreSifreniz
+keyPassword=SizinKeySifreniz
+keyAlias=upload
+storeFile=../app/upload-keystore.jks
